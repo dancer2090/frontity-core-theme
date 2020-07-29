@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /wp-admin
+Disallow: /teammembers
+
+Host: test.com
